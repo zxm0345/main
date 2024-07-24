@@ -1,0 +1,15 @@
+{
+    "name": "齿轮虚拟加工和检测实验系统",
+    "short_name": "齿轮虚拟加工和检测实验系统",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "This is a VR experiment system",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
