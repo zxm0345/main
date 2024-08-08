@@ -6,6 +6,6 @@ https://zxm0345.github.io/transmission/ 汽车变速箱的拆装和运动仿真
 
 https://zxm0345.github.io/reducer/ 减速器的拆装和运动仿真。
 
-https://zxm0345.github.io/gear2/  齿轮加工原理和误差检测检测方法。
+https://zxm0345.github.io/gear2/  齿轮加工原理和误差检测仿真。
 
-https://zxm0345.github.io/gear3/  齿轮加工原理和误差检测检测方法。
+https://zxm0345.github.io/gear3/  齿轮加工原理和误差检测仿真。
