@@ -2,7 +2,7 @@ I am Zhu Xiaoming. This is my Web!
 
 我是来自HEU的老师，这是我的个人网站。
 
-https://zxm0345.github.io/transmission/ 汽车变速箱的拆装和运动仿真
+https://zxm0345.github.io/transmission/ 汽车变速箱的拆装和运动仿真。
 
 https://zxm0345.github.io/reducer/ 减速器的拆装和运动仿真。
 
